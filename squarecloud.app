@@ -1,0 +1,5 @@
+DISPLAY_NAME=Forever
+DESCRIPTION=ForeverBOT
+MAIN=main.py
+MEMORY=120
+VERSION=recommended
