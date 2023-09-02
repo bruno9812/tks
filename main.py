@@ -8,7 +8,7 @@ status = "dnd" #online/dnd/idle
 
 custom_status = "Minecraft FA & Métodos ON!" #If you don't need a custom status on your profile, just put "" instead of "youtube.com/@SealedSaucer"
 
-usertoken = "MTAyMTgxOTAwMDAxMjk0NzUyNw.GGDyFN.NTmGBO0kJbThAj1RCwURk0_hJYALgMpzIDbq44"
+usertoken = "MTAyMTgxOTAwMDAxMjk0NzUyNw.GB9DJ3.8q89xP28isB7pbrfMAmKiof6eIBIOXe6M-GTLs"
 if not usertoken:
     print("[ERROR] Please add a token inside Secrets.")
     sys.exit()
